@@ -8,67 +8,7 @@
 
 \*\*Student:\*\* Olabisi Bayo-Ojeleke  
 
-\*\*Student Number:\*\* 1679040 
-
-\*\*Institution:\*\* HAN University of Applied Sciences    
-
-\*\*Supervisor:\*\* Oliver Ntenje  
-
-\*\*Submission Date:\*\* June 2026  
-
-
-
-
-
-
-
-\## Project Overview
-
-
-
-This project analyses cosmetic product sales data to identify best selling 
-
-beauty products and predict future sales using machine learning forecasting 
-
-models. The project follows the CRISP-DM framework and was inspired by the 
-
-YouTube video "Using Copilot with Jupyter Notebooks".
-
-
-
-\*\*Business Problem:\*\*
-
-Many beauty businesses make marketing and stock decisions based on gut feeling 
-
-rather than data. This leads to wasted budgets and missed sales opportunities.
-
-
-
-\*\*Business Question:\*\*
-
-"Which beauty products sell best, and how can we use historical sales data 
-
-to predict future sales and support smarter marketing decisions?"
-
-
-
-
-
-
-
-\## Repository Structure
-
-\# Beauty Products Sales Analysis \& Forecasting
-
-\## DATDRD05 - Data Science Tools and Techniques
-
-\### Data Driven Decision Making in Business
-
-
-
-\*\*Student:\*\* Olabisi Bayo-Ojeleke  
-
-\*\*Student Number:\*\* \[Your student number]  
+\*\*Student Number:\*\* 1679040  
 
 \*\*Institution:\*\* HAN University of Applied Sciences  
 
@@ -80,7 +20,9 @@ to predict future sales and support smarter marketing decisions?"
 
 
 
-\---
+
+
+
 
 
 
@@ -114,7 +56,9 @@ to predict future sales and support smarter marketing decisions?"
 
 
 
-\---
+
+
+
 
 
 
@@ -138,7 +82,7 @@ Data-science-tools-and-techniques/
 
 
 
-\---
+
 
 
 
@@ -156,7 +100,9 @@ Data-science-tools-and-techniques/
 
 
 
-\---
+
+
+
 
 
 
@@ -214,7 +160,9 @@ Click \*\*Kernel → Restart \& Run All\*\* to run the complete analysis.
 
 
 
-\---
+
+
+
 
 
 
@@ -242,7 +190,9 @@ Click \*\*Kernel → Restart \& Run All\*\* to run the complete analysis.
 
 
 
-\---
+
+
+
 
 
 
@@ -268,7 +218,9 @@ Click \*\*Kernel → Restart \& Run All\*\* to run the complete analysis.
 
 
 
-\---
+
+
+
 
 
 
@@ -290,7 +242,9 @@ Click \*\*Kernel → Restart \& Run All\*\* to run the complete analysis.
 
 
 
-\---
+
+
+
 
 
 
@@ -326,6 +280,8 @@ Click \*\*Kernel → Restart \& Run All\*\* to run the complete analysis.
 
 
 
+
+
 \## Assessment Criteria Alignment
 
 
@@ -348,11 +304,17 @@ Click \*\*Kernel → Restart \& Run All\*\* to run the complete analysis.
 
 
 
+
+
 \## Video Presentation
 
 
 
 Link: \[To be added after recording]
+
+
+
+
 
 
 
@@ -434,7 +396,5 @@ https://www.grandviewresearch.com/industry-analysis/beauty-personal-care-market
 
 GitHub. (2023). \*GitHub Copilot: Your AI pair programmer.\* 
 
-https://github.com/features/copilot.
-
-
+https://github.com/features/copilot
 
